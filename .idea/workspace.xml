@@ -1,11 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5642b6c3-0d0c-4bfd-9435-102f920af3e2" name="Changes" comment="" />
+    <list default="true" id="5642b6c3-0d0c-4bfd-9435-102f920af3e2" name="Changes" comment="привет">
+      <change afterPath="$PROJECT_DIR$/src/Bus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Competing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GroupB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GroupC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GroupD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Transport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trucks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2L9npJiEfkMMlRYlZ5crOHEWZVR" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -13,13 +44,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/IdeaProjects/HW-3-Kyrs-2/HW-3-Kyrs-2.iml&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -28,7 +60,53 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675292348051</updated>
+      <workItem from="1675336079519" duration="1318000" />
+      <workItem from="1675337560873" duration="16000" />
+      <workItem from="1675364783447" duration="92000" />
+      <workItem from="1675364930264" duration="108000" />
+      <workItem from="1675365068095" duration="41000" />
+      <workItem from="1675365124416" duration="82000" />
+      <workItem from="1675700923741" duration="198000" />
+      <workItem from="1675701151238" duration="50000" />
+      <workItem from="1675701220235" duration="21000" />
+      <workItem from="1675701266786" duration="47000" />
+      <workItem from="1675883213842" duration="79000" />
+      <workItem from="1675883334150" duration="17000" />
+      <workItem from="1675883374883" duration="18000" />
+      <workItem from="1675883412101" duration="21000" />
+      <workItem from="1675883450331" duration="14000" />
+      <workItem from="1675883486189" duration="85000" />
+      <workItem from="1675883666238" duration="35000" />
+      <workItem from="1675883767408" duration="127000" />
+      <workItem from="1675883914899" duration="30000" />
+      <workItem from="1675883970766" duration="23000" />
     </task>
+    <task id="LOCAL-00001" summary="привет">
+      <created>1675337170974</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675337170974</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="привет" />
+    <option name="LAST_COMMIT_MESSAGE" value="привет" />
   </component>
 </project>
